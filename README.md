@@ -1,8 +1,8 @@
 # Data Wrangling From Superstore_Workbook
 
 # Analysis Summary
-Data: orders, returns
-Goal: discover the reason for high volume of returns
+* Data: orders, returns
+* Goal: discover the reason for high volume of returns
 
 
 # Steps to replicate cleaning
