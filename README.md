@@ -16,5 +16,6 @@
 * Categorise size of items using IF(OR()) function
 * Find days of shipping by substracting ship_date from order_date
 * Find top customer whom order more than 50 this year using IF(COUNTIF()) function
-
-
+* Return category, sales, profit and profit margin from the orders sheet to the returns sheet using VLOOKUP and INDEX/MATCH function
+* Reason for return is added to the orders table using IFNA(INDEX(MATCH()) function
+* Categorise shipping speeds and profit margin in the orders table using VLOOKUP or INDEX/MATCH function
