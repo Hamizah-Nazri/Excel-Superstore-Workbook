@@ -6,8 +6,8 @@ This repository contains an Excel project on Superstore's Sales Workbook that de
 * Goal: discover the reason for high volume of returns
 
 # Contents
-Data_Analysis.xlsx: Showcases various Excel formulas for different scenarios.
-Data_Visualisation.xlsx: Demonstrates data analysis techniques using pivot tables, filters, conditional formatting, dynamic charts, and pivot charts.
+* Data_Analysis.xlsx: Showcases various Excel formulas for different scenarios.
+* Data_Visualisation.xlsx: Demonstrates data analysis techniques using pivot tables, filters, conditional formatting, dynamic charts, and pivot charts.
 
 # Steps to replicate cleaning
 * Replaced blanks with '-' using Find and Select
