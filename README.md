@@ -1,4 +1,5 @@
 # Data Wrangling From Superstore_Workbook
+This repository contains an Excel project on Superstore's Sales Workbook that demonstrates various features and functionalities of Excel, including data analysis, visualization using Excel formulas and functions.
 
 # Analysis Summary
 * Data: orders, returns
