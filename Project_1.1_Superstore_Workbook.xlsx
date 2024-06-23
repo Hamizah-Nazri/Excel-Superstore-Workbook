@@ -1,6 +1,1 @@
-git clone https://github.com/Hamizah-Nazri/Project-1-Excel/edit/main/Project_1.1_Superstore_Workbook.xlsx
-cd yourrepository
-rm data/excel-file.xlsx
-git add data/excel-file.xlsx
-git commit -m "Delete obsolete Excel file"
-git push origin main
+
