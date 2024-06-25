@@ -23,3 +23,5 @@ This repository contains an Excel project on Superstore's Sales Workbook that de
 * Return category, sales, profit and profit margin from the orders sheet to the returns sheet using VLOOKUP and INDEX/MATCH function
 * Reason for return is added to the orders table using IFNA(INDEX(MATCH()) function
 * Categorise shipping speeds and profit margin in the orders table using VLOOKUP or INDEX/MATCH function
+
+![Pivots](Superstore_Pivots.png)
